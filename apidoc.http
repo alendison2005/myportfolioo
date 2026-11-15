@@ -1,0 +1,38 @@
+#api call  for portfolio
+###
+GET http://127.0.0.1:8000/student/
+Accept: application/json
+
+###
+GET http://127.0.0.1:8000/education/
+Accept: application/json
+
+
+###
+GET http://127.0.0.1:8000/skills/
+Accept: application/json
+
+###
+GET http://127.0.0.1:8000/projects/
+Accept: application/json
+
+
+###
+GET http://127.0.0.1:8000/experience/
+Accept: application/json
+
+###
+GET http://127.0.0.1:8000/certifications/
+Accept: application/json
+
+###
+GET http://127.0.0.1:8000/achievements/
+Accept: application/json
+
+###
+GET http://127.0.0.1:8000/social-profiles/
+Accept: application/json
+
+###
+GET http://127.0.0.1:8000/resume/
+Accept: application/json
